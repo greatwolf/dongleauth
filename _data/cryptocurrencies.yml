@@ -329,6 +329,7 @@ websites:
       tfa: Yes
       sms: Yes
       software: Yes
+      u2f: Yes
       doc: https://gemini.com/blog/better-two-factor-authentication/
 
     - name: HitBTC
